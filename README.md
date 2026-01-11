@@ -2,7 +2,7 @@
 
 **Parser Tongue** is a modular, CLI-based log parsing tool written in Python. It provides a centralized engine for parsing various log files into standardized CSVs and performing static analysis on suspicious strings (such as obfuscated PowerShell).
 
-It is designed for Security Operations and Incident Response analysts who need to quickly normalize data or de-obfuscate commands without executing them.
+It is designed for Security Operations and Incident Response analysts who need to quickly parse data or de-obfuscate commands without executing them. This project was developed with AI assistance.
 
 ## Core Features
 
